@@ -1,8 +1,7 @@
 # Data-related-job-analysis
-I am interested in data and hoping to find opportunities in this field for my future career. So I did this project to explore the current state of the data-related job market. I scraped some job information from a job-hunting website. Then I cleaned and analysed the data. 
-All work was done with Python (BeautifulSoup, nltk, pandas, matplotlib, seaborn).
+I am interested in data and hoping to find opportunities in this field for my future career. So I did this project to explore the current state of the data-related job market. I wrote three Python scripts to scrap job information from a job-hunting website, then clean and analyse the data respectively. 
 
-The Python script 'Data job analysis.ipynb' shows the data analysis results. The following questions will be answered:
+The Python script 'Scraper' is to get job information, 'Data clean' is to clean the data, and 'Data job analysis.ipynb' I wrote shows the data analysis results. The following questions will be answered:
 * 1.Which Australian major city has most job positions?
 * 2.Which industry needs to analyse data?
 * 3.What types of jobs are available? 
