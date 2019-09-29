@@ -2,7 +2,7 @@
 I am interested in data and hoping to find opportunities in this field for my future career. So I did this project to explore the current state of the data-related job market. I scraped some job information from a job-hunting website. Then I cleaned and analysed the data. 
 All work was done with Python (BeautifulSoup, nltk, pandas, matplotlib, seaborn).
 
-The Python script 'Data job analysis.ipynb' is to analyse the data I cleaned up. The following questions will be answered:
+The Python script 'Data job analysis.ipynb' shows the data analysis results. The following questions will be answered:
 * 1.Which Australian major city has most job positions?
 * 2.Which industry needs to analyse data?
 * 3.What types of jobs are available? 
